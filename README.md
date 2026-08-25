@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./ativos/banner.jpg" width="100%" alt="Banner de Persona 3">
+<img src="https://github.com/TenshiS2/TenshiS2/blob/principal/ativos/banner.jpg?raw=true" width="100%" alt="Banner de Persona 3">
 
 <br><br>
 
@@ -33,7 +33,7 @@ DEVELOPER PROFILE INITIALIZED
 
 </div>
 
-<img align="right" width="300" src="./ativos/makoto.jpg" alt="Makoto Yuki">
+<img align="right" width="300" src="https://github.com/TenshiS2/TenshiS2/blob/principal/ativos/makoto.jpg?raw=true" alt="Makoto Yuki">
 
 > USER IDENTIFIED...
 
@@ -56,7 +56,7 @@ Também tenho uma comunidade no Discord onde divulgo meu servidor de Minecraft, 
 
 <div align="center">
 
-<img src="./ativos/cinematic.jpg" width="420" alt="Makoto Yuki Cinematic">
+<img src="https://github.com/TenshiS2/TenshiS2/blob/principal/ativos/cinematic.jpg?raw=true" width="420" alt="Makoto Yuki Cinematic">
 
 </div>
 
