@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.jpg" width="100%" alt="Banner de Persona 3">
+
 
 <br><br>
 
