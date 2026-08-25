@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./ativos/Makoto%20Yuki%20__%20Persona%203.jfif" width="100%" alt="Persona 3 Reload Banner">
+<img src="./ativos/banner.jpg" width="100%" alt="Persona 3 Banner">
 
 <br><br>
 
@@ -35,14 +35,14 @@
 
 </div>
 
-<img align="right" width="300" src="./ativos/makoto.jfif" alt="Makoto Yuki">
+<img align="right" width="300" src="./ativos/makoto.jpg" alt="Makoto Yuki">
 
 ### > USER IDENTIFIED...
 
-**NAME:** Tenshi  
-**ROLE:** Developer  
-**LOCATION:** Brazil  
-**STATUS:** 🟢 Online  
+**NAME:** Tenshi
+**ROLE:** Developer
+**LOCATION:** Brazil
+**STATUS:** 🟢 Online
 
 Sou o **Tenshi**, alguém que gosta muito de tecnologia, programação, jogos, Pokémon e Supernatural.
 
@@ -122,7 +122,7 @@ Também tenho uma comunidade no Discord onde divulgo meu servidor de Minecraft, 
 
 ## 🤖 ANIME RECOMMENDER BOT
 
-**STATUS:** 🟢 ONLINE  
+**STATUS:** 🟢 ONLINE
 **TYPE:** DISCORD BOT
 
 Um bot criado para Discord com o objetivo de recomendar animes e ajudar usuários a encontrarem novos títulos para assistir.
@@ -143,7 +143,7 @@ Um bot criado para Discord com o objetivo de recomendar animes e ajudar usuário
 
 ## ⛏️ MINECRAFT COMMUNITY
 
-**STATUS:** 🟢 ACTIVE  
+**STATUS:** 🟢 ACTIVE
 **TYPE:** COMMUNITY
 
 Uma comunidade no Discord utilizada para divulgar meu servidor de Minecraft, compartilhar novidades e conversar com amigos.
@@ -166,7 +166,7 @@ Uma comunidade no Discord utilizada para divulgar meu servidor de Minecraft, com
 
 ## 🐍 PYTHON JOURNEY
 
-**STATUS:** 🟡 IN PROGRESS  
+**STATUS:** 🟡 IN PROGRESS
 **TYPE:** LEARNING
 
 Atualmente estou aprendendo Python e explorando novas possibilidades dentro da programação.
@@ -181,7 +181,7 @@ Atualmente estou aprendendo Python e explorando novas possibilidades dentro da p
 
 ## 🚀 NEXT PROJECT
 
-**STATUS:** 🔵 IN DEVELOPMENT  
+**STATUS:** 🔵 IN DEVELOPMENT
 **TYPE:** CLASSIFIED
 
 <pre>
