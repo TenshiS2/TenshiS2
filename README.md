@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="./ativos/banner.jpg" width="100%" alt="Persona 3 Banner">
+<img src="https://raw.githubusercontent.com/TenshiS2/TenshiS2/principal/ativos/banner.jpg" width="100%" alt="Banner de Persona 3">
 
 <br><br>
 
-# PERSONA // DEV SYSTEM
+PERSONA // DEV SYSTEM
 
-### DEVELOPER PROFILE INITIALIZED
+DEVELOPER PROFILE INITIALIZED
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00AEEF&center=true&vCenter=true&width=850&lines=INITIALIZING+TENSHI+SYSTEM...;CONNECTING+TO+GITHUB...;PYTHON+LEARNING+MODE:+ACTIVE...;BUILDING+DISCORD+AND+MINECRAFT+PROJECTS...;EXPLORING+TECHNOLOGY+AND+CREATIVITY...;SYSTEM+STATUS:+ONLINE." alt="Typing SVG">
 
@@ -27,42 +27,44 @@
 
 </div>
 
----
-
 <div align="center">
 
-# [ ABOUT_ME.EXE ]
+[ ABOUT_ME.EXE ]
 
 </div>
 
-<img align="right" width="300" src="./ativos/makoto.jpg" alt="Makoto Yuki">
+<img align="right" width="300" src="https://raw.githubusercontent.com/TenshiS2/TenshiS2/principal/ativos/makoto.jpg" alt="Makoto Yuki">
 
-### > USER IDENTIFIED...
+> USER IDENTIFIED...
 
-**NAME:** Tenshi
-**ROLE:** Developer
-**LOCATION:** Brazil
-**STATUS:** 🟢 Online
+NAME: Tenshi
+ROLE: Developer
+LOCATION: Brazil
+STATUS: 🟢 Online
 
-Sou o **Tenshi**, alguém que gosta muito de tecnologia, programação, jogos, Pokémon e Supernatural.
+Sou o Tenshi, alguém que gosta muito de tecnologia, programação, jogos, Pokémon e Supernatural.
 
-Estou sempre tentando aprender coisas novas e transformar ideias em projetos. Atualmente estou aprendendo **Python** e explorando cada vez mais o mundo da programação.
+Estou sempre tentando aprender coisas novas e transformar ideias em projetos. Atualmente estou aprendendo Python e explorando cada vez mais o mundo da programação.
 
-Também utilizo **Node.js** e gosto de criar projetos relacionados a comunidades, Discord, Minecraft e tecnologia.
+Também utilizo Node.js e gosto de criar projetos relacionados a comunidades, Discord, Minecraft e tecnologia.
 
-Já desenvolvi um **bot para Discord capaz de recomendar animes**, permitindo que usuários encontrem novas recomendações.
+Já desenvolvi um bot para Discord capaz de recomendar animes, permitindo que usuários encontrem novas recomendações.
 
 Também tenho uma comunidade no Discord onde divulgo meu servidor de Minecraft, compartilho novidades e converso com amigos.
 
 <br clear="right">
 
----
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/TenshiS2/TenshiS2/principal/ativos/cinematic.jpg" width="420" alt="Makoto Yuki Cinematic">
+
+</div>
 
 <div align="center">
 
-# [ TECH_MODULES ]
+[ TECH_MODULES ]
 
-### TECHNOLOGIES DETECTED
+TECHNOLOGIES DETECTED
 
 <br>
 
@@ -84,13 +86,11 @@ Também tenho uma comunidade no Discord onde divulgo meu servidor de Minecraft, 
 └─────────────────────────────────────────────┘
 </pre>
 
----
-
 <div align="center">
 
-# [ SYSTEM_TOOLS ]
+[ SYSTEM_TOOLS ]
 
-### AVAILABLE DEVELOPMENT TOOLS
+AVAILABLE DEVELOPMENT TOOLS
 
 <br>
 
@@ -106,13 +106,11 @@ Também tenho uma comunidade no Discord onde divulgo meu servidor de Minecraft, 
 
 </div>
 
----
-
 <div align="center">
 
-# [ PROJECT_DATABASE ]
+[ PROJECT_DATABASE ]
 
-### FEATURED SYSTEMS
+FEATURED SYSTEMS
 
 </div>
 
@@ -120,16 +118,16 @@ Também tenho uma comunidade no Discord onde divulgo meu servidor de Minecraft, 
 <tr>
 <td width="50%" valign="top">
 
-## 🤖 ANIME RECOMMENDER BOT
+🤖 ANIME RECOMMENDER BOT
 
-**STATUS:** 🟢 ONLINE
-**TYPE:** DISCORD BOT
+STATUS: 🟢 ONLINE
+TYPE: DISCORD BOT
 
 Um bot criado para Discord com o objetivo de recomendar animes e ajudar usuários a encontrarem novos títulos para assistir.
 
-### TECH
+TECH
 
-`NODE.JS` `DISCORD`
+NODE.JS DISCORD
 
 <br>
 
@@ -141,16 +139,16 @@ Um bot criado para Discord com o objetivo de recomendar animes e ajudar usuário
 
 <td width="50%" valign="top">
 
-## ⛏️ MINECRAFT COMMUNITY
+⛏️ MINECRAFT COMMUNITY
 
-**STATUS:** 🟢 ACTIVE
-**TYPE:** COMMUNITY
+STATUS: 🟢 ACTIVE
+TYPE: COMMUNITY
 
 Uma comunidade no Discord utilizada para divulgar meu servidor de Minecraft, compartilhar novidades e conversar com amigos.
 
-### MODULES
+MODULES
 
-`MINECRAFT` `DISCORD` `COMMUNITY`
+MINECRAFT DISCORD COMMUNITY
 
 <br>
 
@@ -164,25 +162,25 @@ Uma comunidade no Discord utilizada para divulgar meu servidor de Minecraft, com
 <tr>
 <td width="50%" valign="top">
 
-## 🐍 PYTHON JOURNEY
+🐍 PYTHON JOURNEY
 
-**STATUS:** 🟡 IN PROGRESS
-**TYPE:** LEARNING
+STATUS: 🟡 IN PROGRESS
+TYPE: LEARNING
 
 Atualmente estou aprendendo Python e explorando novas possibilidades dentro da programação.
 
-### FOCUS
+FOCUS
 
-`PYTHON` `AUTOMATION` `PROJECTS`
+PYTHON AUTOMATION PROJECTS
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🚀 NEXT PROJECT
+🚀 NEXT PROJECT
 
-**STATUS:** 🔵 IN DEVELOPMENT
-**TYPE:** CLASSIFIED
+STATUS: 🔵 IN DEVELOPMENT
+TYPE: CLASSIFIED
 
 <pre>
 > PROJECT DATA NOT YET AVAILABLE.
@@ -192,19 +190,17 @@ Atualmente estou aprendendo Python e explorando novas possibilidades dentro da p
 > CURRENTLY BUILDING...
 </pre>
 
-### STATUS
+STATUS
 
-`COMING SOON`
+COMING SOON
 
 </td>
 </tr>
 </table>
 
----
-
 <div align="center">
 
-# [ CURRENT_OBJECTIVES ]
+[ CURRENT_OBJECTIVES ]
 
 </div>
 
@@ -224,11 +220,9 @@ Atualmente estou aprendendo Python e explorando novas possibilidades dentro da p
 └─ STATUS: OBJECTIVES IN PROGRESS...
 </pre>
 
----
-
 <div align="center">
 
-# [ GITHUB_ANALYTICS ]
+[ GITHUB_ANALYTICS ]
 
 <pre>
 > ANALYZING DEVELOPMENT DATA...
@@ -246,21 +240,17 @@ Atualmente estou aprendendo Python e explorando novas possibilidades dentro da p
 
 </div>
 
----
-
 <div align="center">
 
-# [ ACTIVITY_MONITOR ]
+[ ACTIVITY_MONITOR ]
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TenshiS2&bg_color=061A33&color=FFFFFF&line=00AEEF&point=00AEEF&area=true&hide_border=true" width="100%">
 
 </div>
 
----
-
 <div align="center">
 
-# [ ACHIEVEMENTS_UNLOCKED ]
+[ ACHIEVEMENTS_UNLOCKED ]
 
 <pre>
 > SCANNING ACHIEVEMENT DATABASE...
@@ -271,23 +261,19 @@ Atualmente estou aprendendo Python e explorando novas possibilidades dentro da p
 
 </div>
 
----
-
 <div align="center">
 
-# [ CONTRIBUTION_SYSTEM ]
+[ CONTRIBUTION_SYSTEM ]
 
-### INITIALIZING SNAKE PROTOCOL...
+INITIALIZING SNAKE PROTOCOL...
 
 <img src="https://raw.githubusercontent.com/TenshiS2/TenshiS2/output/github-snake-dark.svg" alt="GitHub Snake Animation">
 
 </div>
 
----
-
 <div align="center">
 
-# [ SYSTEM_STATUS ]
+[ SYSTEM_STATUS ]
 
 </div>
 
@@ -310,11 +296,9 @@ Atualmente estou aprendendo Python e explorando novas possibilidades dentro da p
 ╚══════════════════════════════════════════════════════╝
 </pre>
 
----
-
 <div align="center">
 
-# [ NETWORK_CONNECTION ]
+[ NETWORK_CONNECTION ]
 
 <pre>
 > SEARCHING AVAILABLE CONNECTIONS...
@@ -342,11 +326,9 @@ Atualmente estou aprendendo Python e explorando novas possibilidades dentro da p
 
 <br><br>
 
----
+BUILD. LEARN. EVOLVE.
 
-# BUILD. LEARN. EVOLVE.
-
-### © TENSHI // PERSONA DEVELOPMENT SYSTEM
+© TENSHI // PERSONA DEVELOPMENT SYSTEM
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=061A33&height=100&section=footer&text=TENSHI%20DEV%20SYSTEM&fontColor=00AEEF&fontSize=22&fontAlignY=70">
 
